@@ -44,7 +44,7 @@ To test this application, please use an Android device or emulator (OS 4.4 or ne
 ## Security
 
 If you discover any security related issues, please email chberry830@gmail.com instead of using the issue tracker.
-
+<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
 ## Contributing
 
